@@ -1,6 +1,6 @@
 # DT MONEY
 
-Idioma ![🇧🇷](./README.md) ![🇺🇸](./README-ingles%20.md)
+Idioma [🇧🇷](./README.md) [🇺🇸](./README-ingles%20.md)
 
 ## 📝Resumo
 
