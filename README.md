@@ -1,4 +1,4 @@
 # DT MONEY
 
 styled-components
-Radix
+Radix-ui/react-dialog
