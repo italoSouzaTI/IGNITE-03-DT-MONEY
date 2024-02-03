@@ -1,7 +1,7 @@
 {
     "transactions": [
         {
-            "id": 1,
+            "id": "1",
             "description": "Desenvolvimento de site",
             "type": "income",
             "category": "Venda",
@@ -9,7 +9,7 @@
             "createdAt": "2022-07-29T19:36:44.505Z"
         },
         {
-            "id": 2,
+            "id": "2",
             "description": "Hambúrguer",
             "type": "outcome",
             "category": "Alimentação",
@@ -17,12 +17,39 @@
             "createdAt": "2022-07-29T19:30:44.505Z"
         },
         {
-            "id": 3,
+            "id": "3",
             "description": "Ignite Rocketseat",
             "type": "outcome",
             "category": "Educação",
             "price": 1980,
             "createdAt": "2022-07-29T19:24:44.505Z"
+        },
+        {
+            "id": "ad58",
+            "description": "fsdf",
+            "price": 2434534,
+            "category": "fsdf",
+            "type": "income",
+            "createdAt": "2024-02-03T13:03:10.494Z"
+        },
+        {
+            "id": "760e",
+            "description": "teste",
+            "price": 1000000,
+            "category": "teste",
+            "type": "outcome",
+            "createdAt": "2024-02-03T14:00:07.929Z"
+        },
+        {
+            "id": "a224",
+            "description": "ignite react native",
+            "price": 1000,
+            "category": "curso",
+            "type": "outcome",
+            "createdAt": "2024-02-03T15:40:24.246Z"
         }
-    ]
+    ],
+    "config": {
+        "fullTextSearchFields": ["description"]
+    }
 }

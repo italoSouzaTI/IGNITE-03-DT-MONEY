@@ -3,7 +3,6 @@ import { defaultTheme } from "./styles/themes/default";
 import { GlobalStyles } from "./styles/global";
 import { Transactions } from "./pages/Transactions";
 import { TransactionsProvider } from "./contexts/transactionsContext";
-
 export function App() {
     return (
         <ThemeProvider theme={defaultTheme}>
